@@ -15,7 +15,7 @@ print "Start guessing..."
 time.sleep(0.5)
 
 #here we set the secret
-word = "secret"
+word = "Cunt"
 
 #creates an variable with an empty value
 guesses = ''
@@ -52,7 +52,7 @@ while turns > 0:
 
     # print You Won
     if failed == 0:        
-        print "You won"  
+        print "You won"
 
     # exit the script
         break              
