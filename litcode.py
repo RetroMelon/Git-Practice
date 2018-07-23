@@ -19,7 +19,7 @@ word = "crippling_depression"
 
 #creates an variable with an empty value
 guesses = ''
-
+#adlskjfasbdfklanldnknfalndslfknalsd
 #determine the number of turns
 turns = 10
 
