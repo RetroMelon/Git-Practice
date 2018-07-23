@@ -52,7 +52,7 @@ while turns > 0:
 
     # print You Won
     if failed == 0:        
-        print "You won"  
+        print "You won"
 
     # exit the script
         break              
@@ -62,7 +62,7 @@ while turns > 0:
     # ask the user go guess a character
     guess = raw_input("guess a character:") 
 
-    # set the players guess to guesses
+    # it's dat boi
     guesses += guess                    
 
     # if the guess is not found in the secret word
